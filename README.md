@@ -15,13 +15,15 @@
     <img src="https://skillicons.dev/icons?i=c" title="C" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=cpp" title="C++" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=python" title="Python3" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=fastapi" title="Fastapi" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=django" title="Django" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=flask" title="Flask" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=js" title="JavaScript" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=nestjs" title="Nestjs" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=css" title="CSS" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=html" title="HTML" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=react" title="React" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=django" title="Django" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=flask" title="Flask" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" style="width: 50px;">
